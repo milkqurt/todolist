@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="hint_text">Введите текст заметки</string>
+    <string name="low">Низкий</string>
+    <string name="medium">Средний</string>
+    <string name="high">Высокий</string>
+    <string name="save">SAVE</string>
+    <string name="editTextIsEmpty">Поле ввода пустое</string>
+</resources>
